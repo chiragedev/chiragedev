@@ -120,11 +120,11 @@ $ ./abderrahman --info
 
 <div align="center">
 
-![Abderrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragedev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9)
+![Abderrahman's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=chiragedev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragedev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chiragedev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9)
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ch1v4g.png)](https://tryhackme.com/p/ch1v4g)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ch1v4g_%7C_Top_2%25-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ch1v4g)
 
 </div>
 
