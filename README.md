@@ -16,7 +16,7 @@ Pentester · Secure App Developer · CTF Player · **Top 2% TryHackMe**
 
 *Hunting vulnerabilities by day, building secure systems by night.*
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com//p/ch1v4g)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ch1v4g)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderrahman_Chirage-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahman-chirage)
 [![Gmail](https://img.shields.io/badge/Email-Abderrahmanchirag%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Abderrahmanchirag@gmail.com)
 [![Location](https://img.shields.io/badge/Based_in-Agadir%2C_Morocco-green?style=flat-square&logo=googlemaps&logoColor=white)]()
